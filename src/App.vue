@@ -3,8 +3,10 @@
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>-->
-  <div class="App-header">
-    <router-view class="App-header-gradient" />
+  <div class="Background">
+    <div class="App-header">
+      <router-view class="App-header-gradient" />
+    </div>
   </div>
 </template>
 
@@ -30,6 +32,10 @@
   color: #000033;
 }
 
+.Background {
+  background-color: #ffeedd;
+}
+
 .App-header {
   background-image: url("./assets/bg.png");
   background-repeat: no-repeat;
@@ -47,7 +53,7 @@
     linear-gradient(to left, #ffeedd, transparent) !important;
   background-repeat: repeat-y, repeat-y;
   background-position: left top, right top;
-  background-size: 30px 100%, 300px 100%;
+  background-size: 300px 100%, 300px 100%;
   min-height: 100vh;
 }
 </style>
