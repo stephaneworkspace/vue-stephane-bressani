@@ -8,7 +8,7 @@
     <ul>
       <li>
         <a
-          href="https://ukulele.stephane-bressani.ch"
+          href="https://ukulele.stephane-bressani.ch/#/chord"
           target="_blank"
           rel="noopener"
           >Ukulele Helper</a
