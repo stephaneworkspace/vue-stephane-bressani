@@ -43,7 +43,7 @@
     <ul>
       <li>
         <a
-          href="https://www.astrologie-traditionnelle.net"
+          href="https://astrologie-traditionnelle.net"
           target="_blank"
           rel="noopener"
           >astrologie-traditionnelle.net</a
@@ -89,6 +89,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #000033;
 }
 </style>
