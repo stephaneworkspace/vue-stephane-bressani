@@ -43,10 +43,10 @@
     <ul>
       <li>
         <a
-          href="https://astrologie-traditionnelle.net"
+          href="https://www.astrologie-traditionnelle.net"
           target="_blank"
           rel="noopener"
-          >astrologie-traditionnelle.net</a
+          >www.astrologie-traditionnelle.net</a
         >
       </li>
     </ul>
