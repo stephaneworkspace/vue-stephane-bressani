@@ -12,7 +12,7 @@
 
 <style>
 body {
-  margin: 0;
+  margin: 0 !important;
 }
 
 #app {
