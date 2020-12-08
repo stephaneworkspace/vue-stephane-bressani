@@ -4,14 +4,14 @@
     <p>
       Welcome to my homepage... and to all others
     </p>
-    <h3>Ukulele helper</h3>
+    <h3>Ukulele helper for iOs</h3>
     <ul>
       <li>
         <a
-          href="https://ukulele.stephane-bressani.ch/#/chord"
+          href="https://ukulele.stephane-bressani.ch/#"
           target="_blank"
           rel="noopener"
-          >Ukulele Helper</a
+          >Ukulele Helper for iOs</a
         >
       </li>
     </ul>
